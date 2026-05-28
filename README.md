@@ -18,10 +18,10 @@ I have worked across Toloka/Mindrift, Scale AI, Outlier, Appen, and Lionbridge, 
 
 ## Portfolio Repositories
 
-- `ai-evaluation-case-studies`: anonymized case studies from real AI QA and operations experience
-- `rlhf-rubric-portfolio`: reusable rubric structures for model response evaluation
-- `document-ai-json-qa`: document extraction QA examples, error taxonomies, and validation workflows
-- `ai-safety-evaluation-notes`: safety review notes, policy-edge patterns, and evaluation checklists
+- [ai-evaluation-case-studies](https://github.com/addisi21/ai-evaluation-case-studies): anonymized case studies from real AI QA and operations experience
+- [rlhf-rubric-portfolio](https://github.com/addisi21/rlhf-rubric-portfolio): reusable rubric structures for model response evaluation
+- [document-ai-json-qa](https://github.com/addisi21/document-ai-json-qa): document extraction QA examples, error taxonomies, and validation workflows
+- [ai-safety-evaluation-notes](https://github.com/addisi21/ai-safety-evaluation-notes): safety review notes, policy-edge patterns, and evaluation checklists
 
 ## Confidentiality Note
 
