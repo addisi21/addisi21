@@ -6,6 +6,11 @@ I evaluate AI systems where accuracy, safety, structure, and domain context matt
 
 I have worked across Toloka/Mindrift, Scale AI, Outlier, Appen, and Lionbridge, plus operational roles in HR, business development, administration, finance documentation, and enterprise workflow support.
 
+## Live Portfolio
+
+- Portfolio site: https://addisi21.github.io
+- Portfolio deck: https://addisi21.github.io/portfolio-deck
+
 ## What I Evaluate
 
 - RLHF and SFT model responses
@@ -18,10 +23,17 @@ I have worked across Toloka/Mindrift, Scale AI, Outlier, Appen, and Lionbridge, 
 
 ## Portfolio Repositories
 
-- [ai-evaluation-case-studies](https://github.com/addisi21/ai-evaluation-case-studies): anonymized case studies from real AI QA and operations experience
-- [rlhf-rubric-portfolio](https://github.com/addisi21/rlhf-rubric-portfolio): reusable rubric structures for model response evaluation
-- [document-ai-json-qa](https://github.com/addisi21/document-ai-json-qa): document extraction QA examples, error taxonomies, and validation workflows
-- [ai-safety-evaluation-notes](https://github.com/addisi21/ai-safety-evaluation-notes): safety review notes, policy-edge patterns, and evaluation checklists
+- [ai-evaluation-case-studies](https://github.com/addisi21/ai-evaluation-case-studies): case studies plus a runnable Python score-summary script
+- [rlhf-rubric-portfolio](https://github.com/addisi21/rlhf-rubric-portfolio): A/B model response scoring data, rubric examples, and score-gap script
+- [document-ai-json-qa](https://github.com/addisi21/document-ai-json-qa): JSON schema, reconstructed document source, extracted JSON, and validation script
+- [ai-safety-evaluation-notes](https://github.com/addisi21/ai-safety-evaluation-notes): safety cases, severity labels, escalation notes, and summary script
+
+## Proof Artifacts
+
+- AI case score summary: https://github.com/addisi21/ai-evaluation-case-studies/blob/main/outputs/score-summary.md
+- RLHF A/B score summary: https://github.com/addisi21/rlhf-rubric-portfolio/blob/main/outputs/evaluation-summary.md
+- Document JSON validation report: https://github.com/addisi21/document-ai-json-qa/blob/main/outputs/validation-report.md
+- Safety review log: https://github.com/addisi21/ai-safety-evaluation-notes/blob/main/outputs/safety-review-log.md
 
 ## Confidentiality Note
 
